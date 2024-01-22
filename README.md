@@ -39,7 +39,7 @@ Proyecto tienda de mascotas, donde vas a poder buscar por raza diferentes perrit
 - [https://bookstore-e-commerce-z27y.onrender.com/]
 
 ## Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true&hide=contribs,prs)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nicolaselozano&show_icons=true&count_private=true&hide=contribs,prs)
 
 ## Contacto
 - [LinkedIn](https://www.linkedin.com/in/nicoelozano/)
