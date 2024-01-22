@@ -36,9 +36,10 @@ Soy desarrollador web apasionado por aprender, seguir las nuevas tecnologias y r
 E-commerce de libros donde el usuario (logueado) puede hacer compras y almacenar en el carrito productos. Cuenta con un sistema de reviews donde una vez comprado el libro, el usuario puede asignarle una puntuación y editarla si lo desea. Además, incluye un rol de admin para gestionar productos, crear, desactivar, editar, y administrar usuarios. El proyecto está hecho con JavaScript, React, PostgreSQL, Sequelize, Auth0, Tailwind, Cloudinary y NodeJs.
 
 [**¡Explora Librería Apolo!**](https://bookstore-e-commerce-z27y.onrender.com/)
-![image](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/1cd3c022-2f9e-4e32-a520-5cbfb576030a)
-![image](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/5c353d8f-c331-4916-af4a-e6e0a1c0cc0f)
-![image](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/b5a44223-2e46-4e9d-ba32-fc3e99a54abf)
+
+| ![image1](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/1cd3c022-2f9e-4e32-a520-5cbfb576030a) | ![image2](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/5c353d8f-c331-4916-af4a-e6e0a1c0cc0f) | ![image3](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/b5a44223-2e46-4e9d-ba32-fc3e99a54abf) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+
 
 
 ## The Dog Sanctuary
