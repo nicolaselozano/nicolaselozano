@@ -30,13 +30,15 @@ Soy desarrollador web apasionado por aprender, seguir las nuevas tecnologias y r
 ![Front-End](https://img.shields.io/badge/Front--End-42B883?style=for-the-badge&logo=frontend&logoColor=white)
 
   
-## Proyectos Destacados
-### Libreria Apolo
-E-commerce de libros donde el usuario (logueado) puede hacer compras y almacenar en el carrito productos, ademas cuenta con un sistema de reviews donde una vez comprado el libro puede asignarle una puntuacion y editarla si quiere, tambien cuenta con un rol de admin donde se puede realizar la gestion de productos, crearlos, desactivarlos, editarlos..., tambien podes ver los distintos usuarios y desactivarlos o darles admin. El proyecto esta hecho con javascript, React, PostgresSQL, sequelize, auth0, tailwind, cloudinary, NodeJs, react-redux.
-Enlace al proyecto : https://bookstore-e-commerce-z27y.onrender.com/
+# Proyectos Destacados
 
-### [Nombre del Proyecto 2]
-Proyecto tienda de mascotas, donde vas a poder buscar por raza diferentes perritos y tambien crear por si hay alguna raza que se halla obviado, Este proyecto esta hecho con : NodeJs, JavaScript, React, PostgresSQL, sequelize, ApiDog (de esta api saco los datos de las razas que se muestran), redux-toolkit.
+## Librería Apolo
+E-commerce de libros donde el usuario (logueado) puede hacer compras y almacenar en el carrito productos. Cuenta con un sistema de reviews donde una vez comprado el libro, el usuario puede asignarle una puntuación y editarla si lo desea. Además, incluye un rol de admin para gestionar productos, crear, desactivar, editar, y administrar usuarios. El proyecto está hecho con JavaScript, React, PostgreSQL, Sequelize, Auth0, Tailwind, Cloudinary y NodeJs.
+
+[**¡Explora Librería Apolo!**](https://bookstore-e-commerce-z27y.onrender.com/)
+
+## The Dog Sanctuary
+Proyecto de tienda de mascotas, donde puedes buscar por raza diferentes perritos y también crear razas. Este proyecto está hecho con NodeJs, JavaScript, React, PostgreSQL, Sequelize, y utiliza la API Dog para obtener datos de las razas que se muestran. También incluye el uso de Redux Toolkit.
 
 ## Contribuciones
 - [BookStore-E-commerce](https://github.com/EcommerceProyect/BookStore-E-commerce)
@@ -46,13 +48,14 @@ Proyecto tienda de mascotas, donde vas a poder buscar por raza diferentes perrit
 
 ## Contacto
 - [LinkedIn](https://www.linkedin.com/in/nicoelozano/)
-- [Correo Electrónico](nicoeloza12@gmail.com)
+- [Correo Electrónico](mailto:nicoeloza12@gmail.com)
 - [Sitio Web/Portafolio](https://tu-sitio-web.com)
 
 ## ¡Hablemos!
-¡Siéntete libre de contactarme para discutir oportunidades, colaboraciones o simplemente charlar sobre desarrollo web, Muchas Gracias por el espacio :D !
+¡Siéntete libre de contactarme para discutir oportunidades, colaboraciones o simplemente charlar sobre desarrollo web! ¡Muchas gracias por el espacio! :D
 
-[![Visitas al Perfil](https://komarev.com/ghpvc/?username=nicolaselozano)](https://github.com/nicolaselozano)
+[![Visitas al Perfil](https://komarev.com/ghpvc/?username=nicolaselozano&color=blueviolet)](https://github.com/nicolaselozano)
+
 <!--
 **nicolaselozano/nicolaselozano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
