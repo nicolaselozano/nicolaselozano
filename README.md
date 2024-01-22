@@ -35,7 +35,7 @@ Enlace al proyecto : https://bookstore-e-commerce-z27y.onrender.com/
 Proyecto tienda de mascotas, donde vas a poder buscar por raza diferentes perritos y tambien crear por si hay alguna raza que se halla obviado, Este proyecto esta hecho con : NodeJs, JavaScript, React, PostgresSQL, sequelize, ApiDog (de esta api saco los datos de las razas que se muestran), redux-toolkit.
 
 ## Contribuciones
-- [https://bookstore-e-commerce-z27y.onrender.com/](https://github.com/EcommerceProyect/BookStore-E-commerce)
+- [BookStore-E-commerce](https://github.com/EcommerceProyect/BookStore-E-commerce)
 
 ## Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nicolaselozano&show_icons=true&count_private=true&hide=contribs,prs)
