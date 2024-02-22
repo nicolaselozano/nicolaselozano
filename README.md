@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Nicolas Lozano
 
 ## Sobre mí
-Soy desarrollador web apasionado por aprender, seguir las nuevas tecnologias y resolver problemas. Con experiencia en trabajo en equipo en Henrry, donde tuve la oportunidad de desarrollar un proyecto con 7 colegas mas, mas adelante dejo el link al E-commerce que realizamos.
+Estudie en la UTN la Tecnicatura Universitaria en Programación, con un enfoque sólido en API REST, Java y Hibernate. Luego decidí mejorar mis habilidades tecnológicas y me sumergí en un bootcamp intensivo llamado "Henry", dónde me especialice en back-end NodeJs,Express y con herramientas de front como React, Redux, tambien aprendi y familiarice con .NET 8, C# y NextJS, TypeScript, logrando hacer un proyecto web funcional para mostrar tus logros y proyectos (Portafolio).
 
 ## Habilidades
 
