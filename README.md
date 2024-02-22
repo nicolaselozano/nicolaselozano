@@ -47,6 +47,7 @@ E-commerce de libros donde el usuario (logueado) puede hacer compras y almacenar
 
 ## The Dog Sanctuary
 Proyecto de tienda de mascotas, donde puedes buscar por raza diferentes perritos y también crear razas. Este proyecto está hecho con NodeJs, JavaScript, React, PostgreSQL, Sequelize, y utiliza la API Dog para obtener datos de las razas que se muestran. También incluye el uso de Redux Toolkit.
+##
 -[The Dog Sanctuary](https://github.com/nicolaselozano/PI-DOGS-nicolaselozano)
 ## Contribuciones
 - [BookStore-E-commerce](https://github.com/EcommerceProyect/BookStore-E-commerce)
