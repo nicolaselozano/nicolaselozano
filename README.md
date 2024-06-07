@@ -36,9 +36,9 @@ Estudie en la UTN la Tecnicatura Universitaria en Programación, con un enfoque 
 # Proyectos Destacados
 
 ## ProyectBox (portafolio)
-Proyecto con el fin de brindar un portafolio que sea personalizable e intuitivo
+Proyecto con el fin de brindar un portafolio que sea personalizable e intuitivo.
 Desarrollo de landing pages, dashboards y aplicaciones online utilizando tecnologías como Typescript, NextJs, PostgreSQL, .Net 8, ASP Core, Auth0, Tailwind, Cloudinary,Docker y NodeJs.
-Diseño de interfaces y elementos frontend, concretar un proyecto web donde se pueda subir, tus proyectos, arte, música, etc y asi mostras tus habilidades a los demas.
+Diseño de interfaces y elementos frontend, para poder compartir, tus proyectos, arte, música, etc y asi mostras tus habilidades a los demas.
 Proyecto: https://github.com/nicolaselozano/ProyectBox
 
 [**¡Explora ProyectBox!**](https://proyectbox-au5d.onrender.com/)
