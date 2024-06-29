@@ -67,9 +67,6 @@ Proyecto de tienda de mascotas, donde puedes buscar por raza diferentes perritos
 - [BookStore-E-commerce](https://github.com/EcommerceProyect/BookStore-E-commerce)
 - [TechZone](https://github.com/TechZoneDevs/back)
 
-## Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=nicolaselozano&show_icons=true&count_private=true&hide=contribs,prs)
-
 ## Contacto
 - [LinkedIn](https://www.linkedin.com/in/nicoelozano/)
 - [Correo Electrónico](mailto:nicoeloza12@gmail.com)
