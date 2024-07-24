@@ -28,7 +28,7 @@ Estudie en la UTN la Tecnicatura Universitaria en Programación, con un enfoque 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![FastApi](https://img.shields.io/badge/FastApi-59666C?style=for-the-badge&logo=FastApi&logoColor=white)
+![FastApi](https://img.shields.io/badge/FastApi-6DB33F?style=for-the-badge&logo=FastApi&logoColor=white)
 
 ### Desarrollo Web
 ![Back-End](https://img.shields.io/badge/Back--End-000000?style=for-the-badge&logo=backend&logoColor=white)
