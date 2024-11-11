@@ -38,6 +38,26 @@ Estudie en la UTN la Tecnicatura Universitaria en Programación, con un enfoque 
   
 # Proyectos Destacados
 
+### Full-Stack Developer – TechSocial (red social)
+**Oct. 2024 - Nov. 2024 | Pasantía-Simulación en No Country**  
+Proyecto de red social orientada a la comunidad de programadores, donde los usuarios pueden crear perfiles, publicar, seguir a otros usuarios y comunicarse en tiempo real.  
+- **Rol**:  
+  - **Front-End**: Desarrollo de interfaces de usuario en React, con diseño de perfiles personalizados y vista de chat de usuarios, y gestión de estados globales con Zustand.  
+  - **Back-End**: Creación de servicios y controladores en Express y TypeORM para la gestión de usuarios.  
+- **Funcionalidades**: Sistema de mensajería en tiempo real con Socket.IO, middlewares personalizados, y autenticación con Auth0.  
+- **Persistencia**: Diseño y administración de entidades de usuario y mensajes en MySQL.  
+- **Tecnologías**: NodeJs, TypeScript, Express, MySQL, Auth0, Docker, React, Socket.IO  
+- **Herramientas**: Trello, GitHub, Firebase  
+- **Repositorio**: [Repositorio de TechSocial](https://github.com/nicolaselozano/TechSocial)
+
+### Back End Developer – Tasty Recetas
+**Sep. 2024 - Oct. 2024 | Pasantía-Simulación en No Country**  
+Proyecto de galería de recetas donde los usuarios pueden crear perfiles, buscar, filtrar, comentar, puntuar y subir recetas.  
+- **Rol**: Desarrollo backend, creación de entidades, controladores, servicios, middlewares e integración de APIs (Auth0 para autenticación). También contribuí en las vistas de perfil de usuario y comentarios.  
+- **Tecnologías**: .NET 8, C#, EF, Angular, TypeScript, MySQL, Auth0, Docker  
+- **Herramientas**: Jira, GitHub, Render  
+- **Repositorio**: [Repositorio de Tasty Recetas](https://github.com/nicolaselozano/TastyRecetas)
+
 ## ProyectBox (portafolio)
 Proyecto con el fin de brindar un portafolio que sea personalizable e intuitivo.
 Desarrollo de landing pages, dashboards y aplicaciones online utilizando tecnologías como Typescript, NextJs, PostgreSQL, .Net 8, ASP Core, Auth0, Tailwind, Cloudinary,Docker y NodeJs.
