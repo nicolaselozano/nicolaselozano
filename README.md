@@ -48,7 +48,8 @@ Proyecto de red social orientada a la comunidad de programadores, donde los usua
 - **Persistencia**: Diseño y administración de entidades de usuario y mensajes en MySQL.  
 - **Tecnologías**: NodeJs, TypeScript, Express, MySQL, Auth0, Docker, React, Socket.IO  
 - **Herramientas**: Trello, GitHub, Firebase  
-- **Repositorio**:([https://github.com/nicolaselozano/TechSocial](https://github.com/nicolaselozano/TecnoSocial-redsocial-))
+- **Repositorio**:([Link](https://github.com/nicolaselozano/TecnoSocial-redsocial-))
+- **Video del Recorrido**:([Link](https://www.linkedin.com/posts/mario-roberto-molano_nocountry-ugcPost-7257766775503613952--m43?utm_source=share&utm_medium=member_desktop))
 
 ## Back End Developer – Tasty Recetas
 **Sep. 2024 - Oct. 2024 | Pasantía-Simulación en No Country**  
@@ -56,7 +57,8 @@ Proyecto de galería de recetas donde los usuarios pueden crear perfiles, buscar
 - **Rol**: Desarrollo backend, creación de entidades, controladores, servicios, middlewares e integración de APIs (Auth0 para autenticación). También contribuí en las vistas de perfil de usuario y comentarios.  
 - **Tecnologías**: .NET 8, C#, EF, Angular, TypeScript, MySQL, Auth0, Docker  
 - **Herramientas**: Jira, GitHub, Render  
-- **Repositorio**: ([https://github.com/nicolaselozano/TastyRecetas](https://github.com/nicolaselozano/TastyRecetas))
+- **Repositorio**: ([Link](https://github.com/nicolaselozano/TastyRecetas))
+- **Video del Recorrido**:([Link](https://www.linkedin.com/posts/nicoelozano_les-presento-tasty-un-proyecto-sobre-una-activity-7243964323507654656-MXTl?utm_source=share&utm_medium=member_desktop)
 
 ## ProyectBox (portafolio)
 Proyecto con el fin de brindar un portafolio que sea personalizable e intuitivo.
