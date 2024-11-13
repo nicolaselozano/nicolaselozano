@@ -73,6 +73,7 @@ Proyecto: https://github.com/nicolaselozano/ProyectBox
 
 ## Librería Apolo
 E-commerce de libros donde el usuario (logueado) puede hacer compras y almacenar en el carrito productos. Cuenta con un sistema de reviews donde una vez comprado el libro, el usuario puede asignarle una puntuación y editarla si lo desea. Además, incluye un rol de admin para gestionar productos, crear, desactivar, editar, y administrar usuarios. El proyecto está hecho con JavaScript, React, PostgreSQL, Sequelize, Auth0, Tailwind, Cloudinary y NodeJs.
+- **Repositorio**:([Link](https://github.com/EcommerceProyect/BookStore-E-commerce))
 
 [**¡Explora Librería Apolo!**](https://bookstore-e-commerce-z27y.onrender.com/)
 
