@@ -58,7 +58,7 @@ Proyecto de galería de recetas donde los usuarios pueden crear perfiles, buscar
 - **Tecnologías**: .NET 8, C#, EF, Angular, TypeScript, MySQL, Auth0, Docker  
 - **Herramientas**: Jira, GitHub, Render  
 - **Repositorio**: ([Link](https://github.com/nicolaselozano/TastyRecetas))
-- **Video del Recorrido**:([Link](https://www.linkedin.com/posts/nicoelozano_les-presento-tasty-un-proyecto-sobre-una-activity-7243964323507654656-MXTl?utm_source=share&utm_medium=member_desktop)
+- **Video del Recorrido**:([Link](https://www.linkedin.com/posts/nicoelozano_les-presento-tasty-un-proyecto-sobre-una-activity-7243964323507654656-MXTl?utm_source=share&utm_medium=member_desktop))
 
 ## ProyectBox (portafolio)
 Proyecto con el fin de brindar un portafolio que sea personalizable e intuitivo.
