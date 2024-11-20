@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Nicolas Lozano
 
 ## Sobre mí
-Estudie en la UTN la Tecnicatura Universitaria en Programación, con un enfoque sólido en API REST, C#, Java. Luego decidí mejorar mis habilidades tecnológicas y me sumergí en un bootcamp intensivo llamado "Henry", dónde me especialice en back-end NodeJs,Express y con herramientas de front como React, Redux.Actualmente trabajo con .NET 8, C# y NextJS, TypeScript.
+Estudie en la UTN la Tecnicatura Universitaria en Programación, con un enfoque sólido en API REST, Java y C#. Luego decidí mejorar mis habilidades tecnológicas y me sumergí en un bootcamp intensivo llamado "Henry", dónde me especialice en back-end NodeJs,Express y con herramientas de front como React, Redux.Actualmente trabajo con .NET 8, C# y NextJS, TypeScript.
 
 ## Habilidades
 
