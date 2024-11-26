@@ -60,6 +60,33 @@ Proyecto de galería de recetas donde los usuarios pueden crear perfiles, buscar
 - **Rol**: Desarrollo backend, creación de entidades, controladores, servicios, middlewares e integración de APIs (Auth0 para autenticación). También contribuí en las vistas de perfil de usuario y comentarios.  
 - **Tecnologías**: .NET 8, C#, EF, Angular, TypeScript, MySQL, Auth0, Docker  
 
+## ProyectBox (portafolio)
+Proyecto con el fin de brindar un portafolio que sea personalizable e intuitivo.
+Desarrollo de landing pages, dashboards y aplicaciones online utilizando tecnologías como Typescript, NextJs, PostgreSQL, .Net 8, ASP Core, Auth0, Tailwind, Cloudinary,Docker y NodeJs.
+Diseño de interfaces y elementos frontend, para poder compartir, tus proyectos, arte, música, etc y asi mostras tus habilidades a los demas.
+Proyecto: https://github.com/nicolaselozano/ProyectBox
+
+[**¡Explora ProyectBox!**](https://proyectbox-au5d.onrender.com/)
+
+| ![Captura de pantalla 2024-03-02 210531](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/171184d8-6549-457b-8d64-d7d0356a6193) | ![Captura de pantalla 2024-03-02 210552](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/cfdda993-8431-4fc0-9375-495bdd7f8a06) | ![Captura de pantalla 2024-03-02 210438](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/e1397b83-2501-4378-94b6-21805f89dca1)|
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+
+## Librería Apolo
+E-commerce de libros donde el usuario (logueado) puede hacer compras y almacenar en el carrito productos. Cuenta con un sistema de reviews donde una vez comprado el libro, el usuario puede asignarle una puntuación y editarla si lo desea. Además, incluye un rol de admin para gestionar productos, crear, desactivar, editar, y administrar usuarios. El proyecto está hecho con JavaScript, React, PostgreSQL, Sequelize, Auth0, Tailwind, Cloudinary y NodeJs.
+- **Repositorio**:([Link](https://github.com/EcommerceProyect/BookStore-E-commerce))
+
+[**¡Explora Librería Apolo!**](https://bookstore-e-commerce-z27y.onrender.com/)
+
+| ![image1](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/1cd3c022-2f9e-4e32-a520-5cbfb576030a) | ![image2](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/5c353d8f-c331-4916-af4a-e6e0a1c0cc0f) | ![image3](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/b5a44223-2e46-4e9d-ba32-fc3e99a54abf) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+
+
+
+## The Dog Sanctuary
+Proyecto de tienda de mascotas, donde puedes buscar por raza diferentes perritos y también crear razas. Este proyecto está hecho con NodeJs, JavaScript, React, PostgreSQL, Sequelize, y utiliza la API Dog para obtener datos de las razas que se muestran. También incluye el uso de Redux Toolkit.
+
+- [The Dog Sanctuary](https://github.com/nicolaselozano/PI-DOGS-nicolaselozano)
+
 ---
 
 # English
@@ -115,34 +142,33 @@ Recipe gallery project where users can create profiles, search, filter, comment,
 - **Role**: Backend development, creation of entities, controllers, services, middlewares, and API integration (Auth0 for authentication). I also contributed to user profile views and comments.  
 - **Technologies**: .NET 8, C#, EF, Angular, TypeScript, MySQL, Auth0, Docker  
 
----
+## ProyectBox (Portfolio)  
+A project aimed at providing a customizable and intuitive portfolio.  
+Development of landing pages, dashboards, and online applications using technologies like TypeScript, NextJs, PostgreSQL, .NET 8, ASP Core, Auth0, Tailwind, Cloudinary, Docker, and NodeJs.  
+Interface and frontend elements were designed to share your projects, art, music, etc., showcasing your skills to others.  
+Project: https://github.com/nicolaselozano/ProyectBox  
 
-## ProyectBox (portafolio)
-Proyecto con el fin de brindar un portafolio que sea personalizable e intuitivo.
-Desarrollo de landing pages, dashboards y aplicaciones online utilizando tecnologías como Typescript, NextJs, PostgreSQL, .Net 8, ASP Core, Auth0, Tailwind, Cloudinary,Docker y NodeJs.
-Diseño de interfaces y elementos frontend, para poder compartir, tus proyectos, arte, música, etc y asi mostras tus habilidades a los demas.
-Proyecto: https://github.com/nicolaselozano/ProyectBox
+[**Explore ProyectBox!**](https://proyectbox-au5d.onrender.com/)  
 
-[**¡Explora ProyectBox!**](https://proyectbox-au5d.onrender.com/)
-
-| ![Captura de pantalla 2024-03-02 210531](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/171184d8-6549-457b-8d64-d7d0356a6193) | ![Captura de pantalla 2024-03-02 210552](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/cfdda993-8431-4fc0-9375-495bdd7f8a06) | ![Captura de pantalla 2024-03-02 210438](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/e1397b83-2501-4378-94b6-21805f89dca1)|
+| ![Screenshot 1](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/171184d8-6549-457b-8d64-d7d0356a6193) | ![Screenshot 2](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/cfdda993-8431-4fc0-9375-495bdd7f8a06) | ![Screenshot 3](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/e1397b83-2501-4378-94b6-21805f89dca1) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
-## Librería Apolo
-E-commerce de libros donde el usuario (logueado) puede hacer compras y almacenar en el carrito productos. Cuenta con un sistema de reviews donde una vez comprado el libro, el usuario puede asignarle una puntuación y editarla si lo desea. Además, incluye un rol de admin para gestionar productos, crear, desactivar, editar, y administrar usuarios. El proyecto está hecho con JavaScript, React, PostgreSQL, Sequelize, Auth0, Tailwind, Cloudinary y NodeJs.
-- **Repositorio**:([Link](https://github.com/EcommerceProyect/BookStore-E-commerce))
+## Apollo Library  
+A book e-commerce platform where logged-in users can make purchases and store products in their cart. It features a review system where users, after purchasing a book, can rate and edit their reviews. Additionally, it includes an admin role to manage products—creating, deactivating, editing, and administering users.  
+The project is built with JavaScript, React, PostgreSQL, Sequelize, Auth0, Tailwind, Cloudinary, and NodeJs.  
+- **Repository**: [Link](https://github.com/EcommerceProyect/BookStore-E-commerce)  
 
-[**¡Explora Librería Apolo!**](https://bookstore-e-commerce-z27y.onrender.com/)
+[**Explore Apollo Library!**](https://bookstore-e-commerce-z27y.onrender.com/)  
 
 | ![image1](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/1cd3c022-2f9e-4e32-a520-5cbfb576030a) | ![image2](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/5c353d8f-c331-4916-af4a-e6e0a1c0cc0f) | ![image3](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/b5a44223-2e46-4e9d-ba32-fc3e99a54abf) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
-
-
-## The Dog Sanctuary
-Proyecto de tienda de mascotas, donde puedes buscar por raza diferentes perritos y también crear razas. Este proyecto está hecho con NodeJs, JavaScript, React, PostgreSQL, Sequelize, y utiliza la API Dog para obtener datos de las razas que se muestran. También incluye el uso de Redux Toolkit.
-
+## The Dog Sanctuary  
+A pet store project where you can search for dogs by breed and also create new breeds. This project was built using NodeJs, JavaScript, React, PostgreSQL, Sequelize, and the Dog API to fetch breed data. It also includes Redux Toolkit.  
 - [The Dog Sanctuary](https://github.com/nicolaselozano/PI-DOGS-nicolaselozano)
+
+---
+
 ## Contribuciones
 - [BookStore-E-commerce](https://github.com/EcommerceProyect/BookStore-E-commerce)
 - [TechZone](https://github.com/TechZoneDevs/back)
