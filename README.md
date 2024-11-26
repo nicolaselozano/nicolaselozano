@@ -1,11 +1,75 @@
-# ¡Hola! 👋 Soy Nicolas Lozano
+**Español / English**  
+Selecciona tu idioma desplazándote hacia abajo o utiliza la barra lateral para navegar entre las secciones.  
+Select your language by scrolling down or using the sidebar to navigate between sections.  
 
-## Sobre mí
-Estudie en la UTN la Tecnicatura Universitaria en Programación, con un enfoque sólido en API REST, Java y C#. Luego decidí mejorar mis habilidades tecnológicas y me sumergí en un bootcamp "Henry", dónde me especialice en back-end NodeJs,Express y con herramientas de front como React, Redux.Actualmente trabajo con Java, C# y NextJS, TypeScript.
+- [Español](#español)  
+- [English](#english)  
+
+---
+
+# Español
+
+## ¡Hola! 👋 Soy Nicolas Lozano
+Estudié en la UTN la Tecnicatura Universitaria en Programación, con un enfoque sólido en API REST, Java y C#. Luego decidí mejorar mis habilidades tecnológicas y me sumergí en un bootcamp "Henry", donde me especialicé en back-end con NodeJs, Express y herramientas de front como React y Redux. Actualmente trabajo con Java, C# y NextJS, TypeScript.
 
 ## Habilidades
 
 ### Lenguajes de Programación
+- TypeScript  
+- Java  
+- C#  
+- Python  
+- JavaScript  
+- HTML  
+- CSS  
+
+### Tecnologías
+- Express  
+- SQL  
+- PostgreSQL  
+- Postman  
+- Spring  
+- .NET  
+- React  
+- Next.js  
+- Django  
+- Docker  
+- Sequelize  
+- Auth0  
+- Hibernate  
+
+### Desarrollo Web
+- Back-End  
+- Front-End  
+
+# Proyectos Destacados
+
+## Full-Stack Developer – TechSocial (red social)
+**Oct. 2024 - Nov. 2024 | Pasantía-Simulación en No Country**  
+Proyecto de red social orientada a la comunidad de programadores, donde los usuarios pueden crear perfiles, publicar, seguir a otros usuarios y comunicarse en tiempo real.  
+- **Rol**:  
+  - **Front-End**: Desarrollo de interfaces de usuario en React, con diseño de perfiles personalizados y vista de chat de usuarios, y gestión de estados globales con Zustand.  
+  - **Back-End**: Creación de servicios y controladores en Express y TypeORM para la gestión de usuarios.  
+- **Funcionalidades**: Sistema de mensajería en tiempo real con Socket.IO, middlewares personalizados, y autenticación con Auth0.  
+- **Persistencia**: Diseño y administración de entidades de usuario y mensajes en MySQL.  
+- **Tecnologías**: NodeJs, TypeScript, Express, MySQL, Auth0, Docker, React, Socket.IO  
+
+## Back End Developer – Tasty Recetas
+**Sep. 2024 - Oct. 2024 | Pasantía-Simulación en No Country**  
+Proyecto de galería de recetas donde los usuarios pueden crear perfiles, buscar, filtrar, comentar, puntuar y subir recetas.  
+- **Rol**: Desarrollo backend, creación de entidades, controladores, servicios, middlewares e integración de APIs (Auth0 para autenticación). También contribuí en las vistas de perfil de usuario y comentarios.  
+- **Tecnologías**: .NET 8, C#, EF, Angular, TypeScript, MySQL, Auth0, Docker  
+
+---
+
+# English
+
+## Hello! 👋 I'm Nicolas Lozano
+I studied at UTN the University Technician in Programming, with a solid focus on REST APIs, Java, and C#. Then, I decided to improve my tech skills and immersed myself in a "Henry" bootcamp, where I specialized in back-end development with NodeJs, Express, and front-end tools like React and Redux. Currently, I work with Java, C#, NextJS, and TypeScript.
+
+## Skills
+
+### Programming Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -14,8 +78,7 @@ Estudie en la UTN la Tecnicatura Universitaria en Programación, con un enfoque 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-
-### Tecnologías
+### Technologies
 ![Express](https://img.shields.io/badge/Express-6DB33F?style=for-the-badge&logo=Express&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -30,35 +93,29 @@ Estudie en la UTN la Tecnicatura Universitaria en Programación, con un enfoque 
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-
-### Desarrollo Web
+### Web Development
 ![Back-End](https://img.shields.io/badge/Back--End-000000?style=for-the-badge&logo=backend&logoColor=white)
 ![Front-End](https://img.shields.io/badge/Front--End-42B883?style=for-the-badge&logo=frontend&logoColor=white)
 
-  
-# Proyectos Destacados
+# Featured Projects
 
-## Full-Stack Developer – TechSocial (red social)
-**Oct. 2024 - Nov. 2024 | Pasantía-Simulación en No Country**  
-Proyecto de red social orientada a la comunidad de programadores, donde los usuarios pueden crear perfiles, publicar, seguir a otros usuarios y comunicarse en tiempo real.  
-- **Rol**:  
-  - **Front-End**: Desarrollo de interfaces de usuario en React, con diseño de perfiles personalizados y vista de chat de usuarios, y gestión de estados globales con Zustand.  
-  - **Back-End**: Creación de servicios y controladores en Express y TypeORM para la gestión de usuarios.  
-- **Funcionalidades**: Sistema de mensajería en tiempo real con Socket.IO, middlewares personalizados, y autenticación con Auth0.  
-- **Persistencia**: Diseño y administración de entidades de usuario y mensajes en MySQL.  
-- **Tecnologías**: NodeJs, TypeScript, Express, MySQL, Auth0, Docker, React, Socket.IO  
-- **Herramientas**: Trello, GitHub, Firebase  
-- **Repositorio**:([Link](https://github.com/nicolaselozano/TecnoSocial-redsocial-))
-- **Video del Recorrido**:([Link](https://www.linkedin.com/posts/mario-roberto-molano_nocountry-ugcPost-7257766775503613952--m43?utm_source=share&utm_medium=member_desktop))
+## Full-Stack Developer – TechSocial (social network)
+**Oct. 2024 - Nov. 2024 | Internship-Simulation at No Country**  
+A social network project aimed at the programming community, where users can create profiles, post, follow other users, and communicate in real time.  
+- **Role**:  
+  - **Front-End**: Developed user interfaces in React, including personalized profile designs and chat user views, and managed global states with Zustand.  
+  - **Back-End**: Built services and controllers in Express and TypeORM for user management.  
+- **Features**: Real-time messaging system with Socket.IO, custom middlewares, and authentication with Auth0.  
+- **Persistence**: Designed and managed user and message entities in MySQL.  
+- **Technologies**: NodeJs, TypeScript, Express, MySQL, Auth0, Docker, React, Socket.IO  
 
-## Back End Developer – Tasty Recetas
-**Sep. 2024 - Oct. 2024 | Pasantía-Simulación en No Country**  
-Proyecto de galería de recetas donde los usuarios pueden crear perfiles, buscar, filtrar, comentar, puntuar y subir recetas.  
-- **Rol**: Desarrollo backend, creación de entidades, controladores, servicios, middlewares e integración de APIs (Auth0 para autenticación). También contribuí en las vistas de perfil de usuario y comentarios.  
-- **Tecnologías**: .NET 8, C#, EF, Angular, TypeScript, MySQL, Auth0, Docker  
-- **Herramientas**: Jira, GitHub, Render  
-- **Repositorio**: ([Link](https://github.com/nicolaselozano/TastyRecetas))
-- **Video del Recorrido**:([Link](https://www.linkedin.com/posts/nicoelozano_les-presento-tasty-un-proyecto-sobre-una-activity-7243964323507654656-MXTl?utm_source=share&utm_medium=member_desktop))
+## Back End Developer – Tasty Recipes
+**Sep. 2024 - Oct. 2024 | Internship-Simulation at No Country**  
+Recipe gallery project where users can create profiles, search, filter, comment, rate, and upload recipes.  
+- **Role**: Backend development, creation of entities, controllers, services, middlewares, and API integration (Auth0 for authentication). I also contributed to user profile views and comments.  
+- **Technologies**: .NET 8, C#, EF, Angular, TypeScript, MySQL, Auth0, Docker  
+
+---
 
 ## ProyectBox (portafolio)
 Proyecto con el fin de brindar un portafolio que sea personalizable e intuitivo.
