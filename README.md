@@ -136,13 +136,15 @@ A social network project aimed at the programming community, where users can cre
   - **Back-End**: Built services and controllers in Express and TypeORM for user management.  
 - **Features**: Real-time messaging system with Socket.IO, custom middlewares, and authentication with Auth0.  
 - **Persistence**: Designed and managed user and message entities in MySQL.  
-- **Technologies**: NodeJs, TypeScript, Express, MySQL, Auth0, Docker, React, Socket.IO  
+- **Technologies**: NodeJs, TypeScript, Express, MySQL, Auth0, Docker, React, Socket.IO
+- **Repositorio**:([Link](https://github.com/nicolaselozano/TecnoSocial-redsocial-))
 
 ## Back End Developer – Tasty Recipes
 **Sep. 2024 - Oct. 2024 | Internship-Simulation at No Country**  
 Recipe gallery project where users can create profiles, search, filter, comment, rate, and upload recipes.  
 - **Role**: Backend development, creation of entities, controllers, services, middlewares, and API integration (Auth0 for authentication). I also contributed to user profile views and comments.  
-- **Technologies**: .NET 8, C#, EF, Angular, TypeScript, MySQL, Auth0, Docker  
+- **Technologies**: .NET 8, C#, EF, Angular, TypeScript, MySQL, Auth0, Docker
+- **Repositorio**:([Link](https://github.com/nicolaselozano/TastyRecetas))
 
 ## ProyectBox (Portfolio)  
 A project aimed at providing a customizable and intuitive portfolio.  
