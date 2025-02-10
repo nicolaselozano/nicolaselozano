@@ -70,8 +70,7 @@ Proyecto: https://github.com/nicolaselozano/ProyectBox
 
 [**¡Explora ProyectBox!**](https://proyectbox-au5d.onrender.com/)
 
-| ![Captura de pantalla 2024-03-02 210531](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/171184d8-6549-457b-8d64-d7d0356a6193) | ![Captura de pantalla 2024-03-02 210552](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/cfdda993-8431-4fc0-9375-495bdd7f8a06) | ![Captura de pantalla 2024-03-02 210438](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/e1397b83-2501-4378-94b6-21805f89dca1)|
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+![image](https://github.com/user-attachments/assets/e219a61e-adae-42b3-8184-5a34ebab0ee8)
 
 ## Librería Apolo
 E-commerce de libros donde el usuario (logueado) puede hacer compras y almacenar en el carrito productos. Cuenta con un sistema de reviews donde una vez comprado el libro, el usuario puede asignarle una puntuación y editarla si lo desea. Además, incluye un rol de admin para gestionar productos, crear, desactivar, editar, y administrar usuarios. El proyecto está hecho con JavaScript, React, PostgreSQL, Sequelize, Auth0, Tailwind, Cloudinary y NodeJs.
@@ -79,8 +78,7 @@ E-commerce de libros donde el usuario (logueado) puede hacer compras y almacenar
 
 [**¡Explora Librería Apolo!**](https://bookstore-e-commerce-z27y.onrender.com/)
 
-| ![image1](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/1cd3c022-2f9e-4e32-a520-5cbfb576030a) | ![image2](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/5c353d8f-c331-4916-af4a-e6e0a1c0cc0f) | ![image3](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/b5a44223-2e46-4e9d-ba32-fc3e99a54abf) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+![image](https://github.com/user-attachments/assets/11d04133-cca3-434e-bb16-29846d6a2a5e)
 
 
 
@@ -154,8 +152,8 @@ Project: https://github.com/nicolaselozano/ProyectBox
 
 [**Explore ProyectBox!**](https://proyectbox-au5d.onrender.com/)  
 
-| ![Screenshot 1](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/171184d8-6549-457b-8d64-d7d0356a6193) | ![Screenshot 2](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/cfdda993-8431-4fc0-9375-495bdd7f8a06) | ![Screenshot 3](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/e1397b83-2501-4378-94b6-21805f89dca1) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+![image](https://github.com/user-attachments/assets/e219a61e-adae-42b3-8184-5a34ebab0ee8)
+
 
 ## Apollo Library  
 A book e-commerce platform where logged-in users can make purchases and store products in their cart. It features a review system where users, after purchasing a book, can rate and edit their reviews. Additionally, it includes an admin role to manage products—creating, deactivating, editing, and administering users.  
@@ -164,8 +162,7 @@ The project is built with JavaScript, React, PostgreSQL, Sequelize, Auth0, Tailw
 
 [**Explore Apollo Library!**](https://bookstore-e-commerce-z27y.onrender.com/)  
 
-| ![image1](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/1cd3c022-2f9e-4e32-a520-5cbfb576030a) | ![image2](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/5c353d8f-c331-4916-af4a-e6e0a1c0cc0f) | ![image3](https://github.com/nicolaselozano/nicolaselozano/assets/103128953/b5a44223-2e46-4e9d-ba32-fc3e99a54abf) |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+![image](https://github.com/user-attachments/assets/11d04133-cca3-434e-bb16-29846d6a2a5e)
 
 ## The Dog Sanctuary  
 A pet store project where you can search for dogs by breed and also create new breeds. This project was built using NodeJs, JavaScript, React, PostgreSQL, Sequelize, and the Dog API to fetch breed data. It also includes Redux Toolkit.  
