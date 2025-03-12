@@ -44,6 +44,22 @@ Estudié en la UTN la Tecnicatura Universitaria en Programación, con un enfoque
 
 # Proyectos Destacados
 
+## Back-End Developer – Fintech  
+**Ene. 2025 - Feb. 2025 | Hackathon (Empresa real IUPI)**  
+IUPI es una aplicación financiera diseñada para empoderar a los usuarios en la gestión y crecimiento de su patrimonio.  
+
+- **Rol**:  
+  - **Back-End**: Desarrollo de backend con Spring Boot y PostgreSQL.  
+
+- **Funcionalidades**:  
+  - Implementación de autenticación con Google y Apple ID.  
+  - Autenticación JWT para seguridad y sesiones de usuario.  
+  - Sistema de Recomendación de inversiones basado en Riesgos (usando datos de APIs financieras).  
+
+- **Tecnologías**: Java, Spring Boot, PostgreSQL, React, Redux, Axios, Chart.js.  
+- **Herramientas**: Notion, GitHub, Render, Firebase.  
+- **Repositorio**: [Link](https://github.com/nicolaselozano/hackathon-fintech)  
+
 ## Full-Stack Developer – TechSocial (red social)
 **Oct. 2024 - Nov. 2024 | Pasantía-Simulación en No Country**  
 Proyecto de red social orientada a la comunidad de programadores, donde los usuarios pueden crear perfiles, publicar, seguir a otros usuarios y comunicarse en tiempo real.  
