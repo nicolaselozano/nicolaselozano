@@ -12,6 +12,8 @@ Select your language by scrolling down or using the sidebar to navigate between 
 ## ¡Hola! 👋 Soy Nicolas Lozano
 Estudié en la UTN la Tecnicatura Universitaria en Programación, con un enfoque sólido en API REST, Java y C#. Luego decidí mejorar mis habilidades tecnológicas y me sumergí en un bootcamp "Henry", donde me especialicé en back-end con NodeJs, Express y herramientas de front como React y Redux. Actualmente trabajo con Java, C# y NextJS, TypeScript.
 
+Link a mi portafolio digital: https://portafolio-4esx.onrender.com/
+
 ## Habilidades
 
 ### Lenguajes de Programación
